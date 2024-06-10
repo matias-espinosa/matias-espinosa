@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matias-espinosa
 - 👀 I like to practice sports and gaming
-- 🌱 I´m learning Python
+- 🌱 I´m learning Python and Cypress
 
 <!---
 matias-espinosa/matias-espinosa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
